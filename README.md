@@ -46,7 +46,8 @@ Menambahkan variable pada program
         echo "Nama : $nama";
     ?>
 ~~~
-![Screenshot (117)](https://user-images.githubusercontent.com/81818989/118353076-03955080-b58f-11eb-9085-407a26d773a6.png)
+![image](https://user-images.githubusercontent.com/101440705/168756169-cd66d09c-211f-4a0b-9843-33fccdd69529.png)
+
 # Predefine Variable $_GET
 ~~~
 <h2>Predefine Variable</h2>
